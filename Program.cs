@@ -94,5 +94,30 @@ int c = (a % b + b);
 
 Console.WriteLine(c);*/
 
+/*Console.WriteLine("Введите первое число");
 
+int a = int.Parse(Console.ReadLine());
 
+Console.WriteLine("Введите второе число");
+
+int b = int.Parse(Console.ReadLine());
+
+b = (a / b + b);
+
+int c = (a % b + a);
+
+Console.WriteLine(c);*/
+
+/*Console.WriteLine("Введите первое число");
+
+int a = int.Parse(Console.ReadLine());
+
+Console.WriteLine("Введите второе число");
+
+int b = int.Parse(Console.ReadLine());
+
+b = (a / b + b);
+
+int c = (a % b + a);
+
+Console.WriteLine(c);*/
