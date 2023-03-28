@@ -1,0 +1,15 @@
+C:\Users\oav\Desktop\Кодики\Задачи\28.03.2022\bin\Debug\net6.0\28.03.2022.exe
+C:\Users\oav\Desktop\Кодики\Задачи\28.03.2022\bin\Debug\net6.0\28.03.2022.deps.json
+C:\Users\oav\Desktop\Кодики\Задачи\28.03.2022\bin\Debug\net6.0\28.03.2022.runtimeconfig.json
+C:\Users\oav\Desktop\Кодики\Задачи\28.03.2022\bin\Debug\net6.0\28.03.2022.dll
+C:\Users\oav\Desktop\Кодики\Задачи\28.03.2022\bin\Debug\net6.0\28.03.2022.pdb
+C:\Users\oav\Desktop\Кодики\Задачи\28.03.2022\obj\Debug\net6.0\28.03.2022.csproj.AssemblyReference.cache
+C:\Users\oav\Desktop\Кодики\Задачи\28.03.2022\obj\Debug\net6.0\28.03.2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oav\Desktop\Кодики\Задачи\28.03.2022\obj\Debug\net6.0\28.03.2022.AssemblyInfoInputs.cache
+C:\Users\oav\Desktop\Кодики\Задачи\28.03.2022\obj\Debug\net6.0\28.03.2022.AssemblyInfo.cs
+C:\Users\oav\Desktop\Кодики\Задачи\28.03.2022\obj\Debug\net6.0\28.03.2022.csproj.CoreCompileInputs.cache
+C:\Users\oav\Desktop\Кодики\Задачи\28.03.2022\obj\Debug\net6.0\28.03.2022.dll
+C:\Users\oav\Desktop\Кодики\Задачи\28.03.2022\obj\Debug\net6.0\refint\28.03.2022.dll
+C:\Users\oav\Desktop\Кодики\Задачи\28.03.2022\obj\Debug\net6.0\28.03.2022.pdb
+C:\Users\oav\Desktop\Кодики\Задачи\28.03.2022\obj\Debug\net6.0\28.03.2022.genruntimeconfig.cache
+C:\Users\oav\Desktop\Кодики\Задачи\28.03.2022\obj\Debug\net6.0\ref\28.03.2022.dll
